@@ -8,6 +8,7 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 
 ### Replication Material for Papers
 
+- [Difference-in-Differences via Common Correlated Effects](https://github.com/kylebutts/Difference-in-Differences-via-CCE)
 - [A Unified Framework for Dynamic Treatment Effect Estimation in Interactive Fixed Effect Models](https://github.com/kylebutts/Generalized-Imputation-Estimator)
 - [Difference-in-Differences for Geocoded Microdata](https://github.com/kylebutts/Difference-in-Differences-Ring-Method)
 - [Difference-in-Differences with Spatial Spillovers](https://github.com/kylebutts/Spatial-Spillover)
