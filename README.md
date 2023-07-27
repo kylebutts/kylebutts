@@ -8,6 +8,7 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 
 ### Replication Material for Papers
 
+- [Urban Wage Premium in Historical Perspectives](https://github.com/jaworskit/urban-wage-premium)
 - [Difference-in-Differences via Common Correlated Effects](https://github.com/kylebutts/Difference-in-Differences-via-CCE)
 - [A Unified Framework for Dynamic Treatment Effect Estimation in Interactive Fixed Effect Models](https://github.com/kylebutts/Generalized-Imputation-Estimator)
 - [Difference-in-Differences for Geocoded Microdata](https://github.com/kylebutts/Difference-in-Differences-Ring-Method)
@@ -20,6 +21,8 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 - [`did2s`](https://github.com/kylebutts/did2s) and [`did2s_stata`](https://github.com/kylebutts/did2s_stata) estimates difference-in-differences models using an imputation estimator.
 
 - [`ssaggregate`](https://github.com/kylebutts/ssaggregate) converts “location-level” variables in a shift-share IV dataset to a dataset of exposure-weighted “industry-level” aggregates, as described in Borusyak, Hull, and Jaravel (2022).
+
+- [`vcovSUR`] allows estimation of the variance-covariance matrix and perform hypotheses tests across multiple regression models.
 
 - My open-source article and slides [latex templates](https://github.com/kylebutts/templates)
 
