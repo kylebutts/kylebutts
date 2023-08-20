@@ -22,7 +22,9 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 
 - [`ssaggregate`](https://github.com/kylebutts/ssaggregate) converts “location-level” variables in a shift-share IV dataset to a dataset of exposure-weighted “industry-level” aggregates, as described in Borusyak, Hull, and Jaravel (2022).
 
-- [`vcovSUR`] allows estimation of the variance-covariance matrix and perform hypotheses tests across multiple regression models.
+- [`jive`](https://github.com/kylebutts/jive) estimates jackknife instrumental-variables estimation and variants with lightning fast speed.
+
+- [`vcovSUR`](https://github.com/kylebutts/vcovSUR) allows estimation of the variance-covariance matrix and perform hypotheses tests across multiple regression models.
 
 - My open-source article and slides [latex templates](https://github.com/kylebutts/templates)
 
