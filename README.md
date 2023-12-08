@@ -8,9 +8,9 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 
 ### Replication Material for Papers
 
-- [Urban Wage Premium in Historical Perspectives](https://github.com/jaworskit/urban-wage-premium)
-- [Difference-in-Differences via Common Correlated Effects](https://github.com/kylebutts/Difference-in-Differences-via-CCE)
 - [A Unified Framework for Dynamic Treatment Effect Estimation in Interactive Fixed Effect Models](https://github.com/kylebutts/Generalized-Imputation-Estimator)
+- [Difference-in-Differences via Common Correlated Effects](https://github.com/kylebutts/Difference-in-Differences-via-CCE)
+- [Urban Wage Premium in Historical Perspectives](https://github.com/jaworskit/urban-wage-premium)
 - [Difference-in-Differences for Geocoded Microdata](https://github.com/kylebutts/Difference-in-Differences-Ring-Method)
 - [Difference-in-Differences with Spatial Spillovers](https://github.com/kylebutts/Spatial-Spillover)
 - [Geographic Difference-in-Discontinuities](https://github.com/kylebutts/Spatial-Difference-in-Discontinuities)
@@ -25,6 +25,8 @@ I'm an PhD student in Economics at the University of Colorado: Boulder.
 - [`jive`](https://github.com/kylebutts/jive) estimates jackknife instrumental-variables estimation and variants with lightning fast speed.
 
 - [`vcovSUR`](https://github.com/kylebutts/vcovSUR) allows estimation of the variance-covariance matrix and perform hypotheses tests across multiple regression models.
+
+- [`fwlplot`](https://github.com/kylebutts/fwlplot) creates scatter plots of `y` on `x` after residualizing by covariates using the `fixest` package
 
 - My open-source article and slides [latex templates](https://github.com/kylebutts/templates)
 
