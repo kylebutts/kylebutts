@@ -1,8 +1,8 @@
 ### Hi there 👋👋
 
-I'm an PhD student in Economics at the University of Colorado: Boulder. 
+I'm an Assitant Professor in Economics at the University of Arkansas.
 - 🔩 Working on: Urban Economics and Applied Econometrics
-- 📫 How to reach me: kyle.butts@colorado.edu
+- 📫 How to reach me: kbutts@uark.edu
 - 😄 Pronouns: He/Him
 
 
